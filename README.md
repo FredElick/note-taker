@@ -17,3 +17,6 @@ Usage of the app is fairly intuitive. The plus button will allow you to start a 
 The backend of the app was built through an express.js server. The buttons on the app are handled into API calls to the express server and update or get info from the server's json file. 
 
 ![](Capture.JPG)
+
+# Deployed App
+https://afternoon-cove-78860.herokuapp.com/
